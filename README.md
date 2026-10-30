@@ -4,8 +4,9 @@ Een **client-side Fabric-mod** voor Minecraft **1.21.4** die de inhoud van kiste
 bijhoudt in een centrale database, met een handige in-game viewer. Ideaal om op een kingdom-/survival-server
 te weten *wat er waar ligt* — boeken, enchants, gear, potions en meer.
 
-> **Download de nieuwste versie** uit de [Releases](../../releases) (of de `jar` hierboven) en zet 'm in je
-> `mods`-map.
+> **Download de nieuwste versie** uit
+> [de Releases van deze repo](https://github.com/yannickbm/kingdom-storage-mod-atla/releases)
+> en zet 'm in je `mods`-map.
 
 ---
 
@@ -65,5 +66,6 @@ Dit is een **client-side** mod: je installeert 'm in je eigen Minecraft, niet op
 
 ## Versies
 
-Zet hier telkens de nieuwste `.jar` neer (Releases). Spelers hebben enkel een losse download nodig;
-server-kant hoeft niet per speler bijgewerkt te worden.
+De nieuwste `.jar` staat altijd in de
+[Releases van deze repo](https://github.com/yannickbm/kingdom-storage-mod-atla/releases).
+Spelers hebben enkel die losse download nodig; de server-kant hoeft niet per speler bijgewerkt te worden.
